@@ -2,3 +2,6 @@ FROM ubuntu:latest
 WORKDIR /usr/src/app
 COPY script.sh ./script.sh
 CMD ./script.sh
+
+
+update!
